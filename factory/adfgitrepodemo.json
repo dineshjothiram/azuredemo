@@ -1,0 +1,9 @@
+{
+	"name": "adfgitrepodemo",
+	"location": "eastus",
+	"identity": {
+		"type": "SystemAssigned",
+		"principalId": "7cd958c5-8db1-43ec-9656-2a460e51e3d2",
+		"tenantId": "5d0312cd-2716-4f43-b4cf-da7a84067bd6"
+	}
+}
